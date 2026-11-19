@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/
+wireless-device.json
+*.log
+.DS_Store
+Thumbs.db
